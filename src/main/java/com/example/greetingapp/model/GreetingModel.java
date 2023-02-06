@@ -1,6 +1,5 @@
 package com.example.greetingapp.model;
 
-
 import jakarta.persistence.*;
 
 @Entity
